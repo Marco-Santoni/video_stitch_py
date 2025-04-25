@@ -16,3 +16,12 @@ aws configure
 ```
 
 Create a yaml file based on the example_config.yaml file.
+
+## Run
+
+Places videos you want to stitch in _input_ folder.
+Run 
+
+```bash
+python main.py
+```
