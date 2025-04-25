@@ -1,0 +1,2 @@
+STITCHED_VIDEO_BUCKET: name-of-s3-bucket # permanent storage of stiched video
+RAW_VIDEO_BUCKET: name-of-s3-bucket # permanent storage of raw videos
